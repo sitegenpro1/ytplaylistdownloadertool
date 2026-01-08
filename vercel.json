@@ -1,5 +1,6 @@
 {
-  "buildCommand": "",
-  "outputDirectory": "YouTube Playlist Downloader",
-  "public": true
-}
+  "functions": {
+    "*. php": {
+      "runtime":  "vercel-php@0.6.0"
+    }
+  }
